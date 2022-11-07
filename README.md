@@ -1,2 +1,2 @@
 # Tamako
-A new repository for cousera
+A new repository
